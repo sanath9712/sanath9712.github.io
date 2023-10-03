@@ -22,7 +22,7 @@ author: Sanath Bhimsen
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://beautifuljekyll.co"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
   GULDU KHAN: "https://www.google.com"
@@ -53,10 +53,8 @@ round-avatar: false
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
+  github: sanath9712
+  linkedin: "https://www.linkedin.com/in/sanath-b-92aab9122/"
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
