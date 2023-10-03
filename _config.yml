@@ -21,11 +21,11 @@ author: Sanath Bhimsen
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Experiences:
     - Beautiful Jekyll: "https://beautifuljekyll.co"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  GULDU KHAN: "https://www.google.com"
+  Projects: "https://deanattali.com"
+  Contact: "https://www.google.com"
 
 ################
 # --- Logo --- #
