@@ -55,8 +55,8 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: sanath9712
   linkedin: 
-  youtube: snatahthenoob
-  leetcode: sanath_97
+ # youtube: snatahthenoob
+ # leetcode: sanath_97
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
