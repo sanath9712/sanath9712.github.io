@@ -22,10 +22,10 @@ author: Sanath Bhimsen
 navbar-links:
   About Me: "aboutme"
   Education: "aboutme"
-  Work Experience: "https://www.google.com"
-  Skills: "https://www.google.com"
+  Work Experience: "aboutme"
+  Skills: "aboutme"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
-  Contact: "https://www.google.com"
+  Contact: "aboutme"
 
 ################
 # --- Logo --- #
