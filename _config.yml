@@ -21,9 +21,9 @@ author: Sanath Bhimsen
 
 navbar-links:
   About Me: "aboutme"
-  Education: "education.md"
+  Education: "education"
   Projects: "aboutme"
-  Work Experience: "work_ex.html"
+  Work Experience: "work_ex"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
   Contact: "index.html"
 
