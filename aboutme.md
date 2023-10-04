@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-Hi, I'm Sanath Bhimsen. My professional journey in the tech industry has been defined by a broad and adaptive skill set. From the realms of Data Science, and Machine Learning to foundational software development, I pride myself on leveraging this expertise to craft solutions that are both innovative and efficient. Whether I'm optimizing an algorithm or building robust software architectures, my focus is always on delivering excellence.
+Hi, I’m Sanath Bhimsen, a graduate student in Computer Science at Boston University. My professional journey in the tech industry has been defined by a broad and adaptive skill set. From the realms of Data Science, and Machine Learning to foundational software development, I pride myself on leveraging this expertise to craft solutions that are both innovative and efficient. Whether I'm optimizing an algorithm or building robust software architectures, my focus is always on delivering excellence.
 
 While deeply immersed in technology, I've also drawn strategic insights from games like football, tennis, and chess. Each game, in its own way, complements my approach to problem-solving in the tech space.
 
