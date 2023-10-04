@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Education: "aboutme"
   Projects: "aboutme"
-  Work Experience: "aboutme"
+  Work Experience: "work_ex.html"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
   Contact: "index.html"
 
