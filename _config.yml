@@ -21,9 +21,7 @@ author: Sanath Bhimsen
 
 navbar-links:
   About Me: "aboutme"
-  Education:
-    - Beautiful Jekyll: "https://beautifuljekyll.co"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Education: "aboutme"
   Work Experience: "https://www.google.com"
   Skills: "https://www.google.com"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
