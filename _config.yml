@@ -21,10 +21,12 @@ author: Sanath Bhimsen
 
 navbar-links:
   About Me: "aboutme"
-  Experiences:
+  Education:
     - Beautiful Jekyll: "https://beautifuljekyll.co"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Projects: "https://deanattali.com"
+  Work Experience: "https://www.google.com"
+  Skills: "https://www.google.com"
+  Resume: "https://deanattali.com"
   Contact: "https://www.google.com"
 
 ################
