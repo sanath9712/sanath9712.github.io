@@ -22,7 +22,7 @@ author: Sanath Bhimsen
 navbar-links:
   About Me: "aboutme"
   Education: "education"
-  Projects: "aboutme"
+  Projects: "projects"
   Work Experience: "work_ex"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
   Contact: "contact"
@@ -54,7 +54,7 @@ social-network-links:
   email: "sanathbhimsen26@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: sanath9712
-  linkedin: 
+  linkedin: sanath9712
  # youtube: snatahthenoob
  # leetcode: sanath_97
 #  medium: yourname
