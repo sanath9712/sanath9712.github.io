@@ -22,6 +22,7 @@ author: Sanath Bhimsen
 navbar-links:
   About Me: "aboutme"
   Education: "aboutme"
+  Projects: "aboutme"
   Work Experience: "aboutme"
   Skills: "aboutme"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
