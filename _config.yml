@@ -25,7 +25,7 @@ navbar-links:
   Work Experience: "aboutme"
   Skills: "aboutme"
   Resume: "/assets/docs/Sanath_Bhimsen_Resume.pdf"
-  Contact: "aboutme"
+  Contact: "index.html"
 
 ################
 # --- Logo --- #
