@@ -15,7 +15,7 @@ San Jose, California, United States of America (Remote)
 
 ## SOFTWARE ENGINEER
 **SOPHOS TECHNOLOGIES** | June 2019 - June 2022
-Bengaluru, Karnataka, India    
+Bengaluru, Karnataka, India
 - Played a pivotal role in building the front-end of the Amazon VPC port to the Sophos XG firewall.
 - Made significant contributions to the back-end through bug fixes.
 - Revamped the VPN UI on the XG Firewall, leading to its release in version 19.
