@@ -20,7 +20,7 @@ Boston, MA
 ---
 
 **LinkedIn:**  
-[Sanath's LinkedIn](https://www.linkedin.com/in/sanath-b-92aab9122)
+[Sanath's LinkedIn](https://www.linkedin.com/in/sanathbhimsen)
 
 ---
 
